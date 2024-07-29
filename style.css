@@ -1,0 +1,46 @@
+nav{
+    background-color: rgb(65, 65, 67);
+}
+.nav-link{
+    font-size: 20px;
+}
+.nav-item:hover{
+    background-color:  rgb(101, 101, 103);;
+}
+.conquer{
+    font-size: 70px;
+    text-shadow: 2px 2px #000000;
+    font-weight: 5px;
+}
+#bg1{
+    background-image: url(./images/bg-1\(1\).png);
+    background-size: cover;
+    text-align: center;
+    padding: 210px;
+    line-height: 60px;
+} 
+#bg2{
+    background-image: url(./images/bg-2\(1\).png);
+    background-size: cover;
+    text-align: center;
+    padding: 60px;
+    color: white;
+}
+.card{
+    border: none; 
+}
+#card3img{
+    border-radius: none;
+}
+#bg3{
+    background-image: url(./images/bg-3\(3\).png);
+    background-size: cover;
+     height: 100%;
+     margin-top: 80px;
+}
+#btnlast{
+    margin-right: 604px;
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
